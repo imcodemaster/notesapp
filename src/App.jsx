@@ -20,10 +20,12 @@ function App() {
           </p>
       </div>
       <p className="read-the-docs">
-       Connect to our Whatsapp line for more details about Learnincreation Study Centre.
+       Connect to our Whatsapp line for more details about Learnincreation Study Centre. <br/>
+      Whatsapp : +91-6395677914 or you can mail directly to founder at "thevinaybhatt@gmail.com" 
+
        <br/><br/>
        <hr/> <br/>
-       Whatsapp : +91-6395677914 or you can mail directly to founder at "thevinaybhatt@gmail.com" 
+          website is under maintenance , All Rights Reserved &copy; Copyright 2018-2025 
       </p>
     </>
   )
